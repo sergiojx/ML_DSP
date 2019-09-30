@@ -16,3 +16,8 @@ https://github.com/exporl/mwf-artifact-removal/blob/master/doc/mwf_manual.pdf
 ## EEG ANALYSIS AND CLASSIFICATION
 https://www.mathworks.com/matlabcentral/fileexchange/55112-eeg-analysis-and-classification
 
+
+## pactools
+https://github.com/pactools/pactools
+
+
