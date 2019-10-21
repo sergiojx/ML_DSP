@@ -23,5 +23,12 @@ https://github.com/pactools/pactools
 ## Install OpenCV 3 and Dlib on Windows
 https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/
 
+## Sparse Image and Signal Processing
+http://www.multiresolutions.com/sparsesignalrecipes/news.html
+http://www.multiresolutions.com/sparsesignalrecipes/software-NEW.html
+
+## Neuralynx
+http://nlxneuro.com/hardware/atlas-headboxes
+https://neuralynx.com/software/NeuralynxMatlabImportExport_v502.zip
 
 
