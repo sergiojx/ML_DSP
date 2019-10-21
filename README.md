@@ -20,4 +20,8 @@ https://www.mathworks.com/matlabcentral/fileexchange/55112-eeg-analysis-and-clas
 ## pactools
 https://github.com/pactools/pactools
 
+## Install OpenCV 3 and Dlib on Windows
+https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/
+
+
 
