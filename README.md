@@ -31,4 +31,22 @@ http://www.multiresolutions.com/sparsesignalrecipes/software-NEW.html
 http://nlxneuro.com/hardware/atlas-headboxes
 https://neuralynx.com/software/NeuralynxMatlabImportExport_v502.zip
 
+# Sleep clasification projects
+## SeqSleepNet
+https://github.com/pquochuy
+## Sleep Stage Classification
+https://towardsdatascience.com/sleep-stage-classification-from-single-channel-eeg-using-convolutional-neural-networks-5c710d92d38e
+https://github.com/CVxTz/EEG_classification
+
+## dosed
+https://github.com/Dreem-Organization/dosed
+
+## yasa
+https://github.com/raphaelvallat/yasa
+
+## SpinkyDemo
+https://github.com/christian-oreilly/spinkyDemo
+
+## EEG-Spindles
+https://github.com/VisLab/EEG-Spindles
 
