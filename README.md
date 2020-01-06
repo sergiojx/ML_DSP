@@ -38,9 +38,6 @@ https://github.com/pquochuy
 https://towardsdatascience.com/sleep-stage-classification-from-single-channel-eeg-using-convolutional-neural-networks-5c710d92d38e
 https://github.com/CVxTz/EEG_classification
 
-# Open Datasets in Electrophysiology
-https://github.com/openlists/OpenData
-
 ## DETOKS
 https://github.com/aparek/detoks
 
@@ -56,3 +53,6 @@ https://github.com/christian-oreilly/spinkyDemo
 ## EEG-Spindles
 https://github.com/VisLab/EEG-Spindles
 
+
+# Open Datasets in Electrophysiology
+https://github.com/openlists/OpenData
