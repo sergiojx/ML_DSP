@@ -47,6 +47,10 @@ https://github.com/Dreem-Organization/dosed
 ## yasa
 https://github.com/raphaelvallat/yasa
 
+## neuralign 
+https://nerdslab.github.io/neuralign/
+
+
 ## SpinkyDemo
 https://github.com/christian-oreilly/spinkyDemo
 
